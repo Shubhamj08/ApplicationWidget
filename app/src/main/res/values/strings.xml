@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ApplicationWidget</string>
+    <string name="name">Your name</string>
+</resources>
